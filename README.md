@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤
 
-<!--
-**Marianaaoli/Marianaaoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mariana Oliveira
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br) 
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você pode entrar em comigo 📬
+
+ 00001113660454sp@al.educacao.sp.gov.br
+
+ ![](https://media1.tenor.com/m/kZ3y_QNaGSAAAAAC/%EB%AA%A8%EB%AA%A8%EB%83%A5-%EB%AA%A8%EB%AA%A8%EC%B0%8C-%EB%AA%A8%EC%B0%8C-%EC%95%88%EB%85%95.gif)
